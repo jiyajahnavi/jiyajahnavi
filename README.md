@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - ⚡ Skills: Python, C, Data structures, Object-Oriented Programming, Linux, mySQL, Microsoft PowerBI, Pandas, Seaborn, Matplotlib, and NumPy
+- Portfolio website https://portfolio-jiyajahnavi.netlify.app/
 - 📫 How to reach me https://www.linkedin.com/in/jiya-jahnavi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
