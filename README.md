@@ -15,6 +15,13 @@
 
 - ⚡ Fun fact **I believe every dataset has a story waiting to be told — and I’m here to be the storyteller! 📊✨**
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jiya-jahnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiya-jahnavi" height="30" width="40" /></a>
