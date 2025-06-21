@@ -48,6 +48,11 @@
     </td>
   </tr>
 </table>
+<h3 align="left">Streak:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyajahnavi&" alt="jiyajahnavi" /></p>
 
    <tr>
     <th><a href="source/plugins/leetcode/README.md">🎭 Comment Reactions</a></th>
