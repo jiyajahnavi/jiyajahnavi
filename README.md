@@ -29,21 +29,29 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyajahnavi&show_icons=true&locale=en" alt="jiyajahnavi" /></p>
 
- <th><a href="#">📅 Isometric commit calendar</a></th>   <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-         <th><a href="source/plugins/reactions/README.md">🎭 Comment reactions</a></th>
-            <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-       <tr>
-    <th><a href="source/plugins/leetcode/README.md">🗳️ Leetcode</a></th>
-  </tr>
+<table>
   <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
-        <img width="900" height="1" alt="">
+    <td align="center">
+      <strong>📅 Isometric Commit Calendar</strong>
+      <br/>
+      <details open><summary>Full year</summary>
+        <img width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" />
+      </details>
+      <details><summary>Half year</summary>
+        <img width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" />
+      </details>
+    </td>
+    <td align="center">
+      <strong>🗳️ Leetcode</strong>
+      <br/>
+    <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
+    </td>
+  </tr>
+</table>
+
+   <tr>
+    <th><a href="source/plugins/leetcode/README.md">🎭 Comment Reactions</a></th>
+        <td>
+           <img width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" />
       </td>
+      </tr>
