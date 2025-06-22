@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Jiya Jahnavi</h1>
-<h3 align="center">💻 Full Stack Development Expert | 🚀 Exploring App Development, Machine Learning & Data Science</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jiyajahnavi&label=Profile%20views&color=8a2be2&style=for-the-badge" alt="Profile views" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&color=6EC9FF&lines=Full+Stack+Development+expert;Learning+App+Development;Exploring+Machine+Learning;Exploring+Data+Science" alt="Typing SVG" />
 </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jiyajahnavi&style=for-the-badge&label=Profile%20Views&color=8A2BE2&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jiyajahnavi?style=for-the-badge&logo=github&label=Followers&color=0d8abc" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/jiyajahnavi?style=for-the-badge&logo=github&label=Stars&color=FFA500" alt="GitHub Stars" />
+  <a href="https://wakatime.com/@jiyajahnavi">
+    <img src="https://wakatime.com/badge/user/018b7c34-66c0-414f-bed4-3cc0802eb59d.svg?style=for-the-badge" alt="WakaTime" />
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiyajahnavi" alt="jiyajahnavi" /></a> </p>
 
-- 🔭 I’m currently working on [![AmiPYQ](https://img.shields.io/badge/AmiPYQ-Project-orange?style=flat&logo=github&logoColor=white&color=orange&labelColor=ff7e5f)](https://github.com/jiyajahnavi/AmiPYQ)
+🔭 I’m currently working on [![AmiPYQ](https://img.shields.io/badge/AmiPYQ-Project-orange?style=flat&logo=github&logoColor=white&color=orange&labelColor=ff7e5f)](https://github.com/jiyajahnavi/AmiPYQ)
 
-- 🌱 I’m currently learning **App developement (React Native)**
+![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
   
-- 👨‍💻 All of my projects are available at 
+👨‍💻 All of my projects are available at 
   <a href="https://jiya-jahnavi-portfolio.netlify.app/">
     <img 
       src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=firefox&logoColor=white&color=ff7e5f&labelColor=ffa500" 
@@ -18,7 +29,9 @@
       alt="Portfolio" />
   </a>
 
-- 🌐 Let's connect on 
+ ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]([https://resume.arjuncvinod.tech](https://drive.google.com/file/d/1LwkEpbtzIR8WKPlugSV1Px389R58pBgT/view?usp=sharing)) 
+
+ 🌐 Let's connect on 
   <a href="https://www.linkedin.com/in/jiya-jahnavi">
     <img 
       src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&color=0a66c2&labelColor=004182" 
@@ -27,10 +40,7 @@
   </a>
 
 
-- ⚡ Fun fact   **My first line of code was not 'Hello World' ✨**
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&color=6EC9FF&center=true&vCenter=true&lines=Turning+ideas+into+code;Learning%2C+Building%2C+Repeating;Growing+one+commit+at+a+time;Always+ready+to+learn+%26+build" alt="Typing SVG" />
-</p>
+⚡ Fun fact   **My first line of code was not 'Hello World' ✨**
 
 
 <picture align="center">
