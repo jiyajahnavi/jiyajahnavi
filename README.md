@@ -29,8 +29,6 @@
       alt="Portfolio" />
   </a>
 
- ![](https://img.shields.io/badge/✍%20You%20can%20find%20my%20resume-%23563D7C?style=for-the-badge&logoColor=white)[![](https://img.shields.io/badge/here↗️-%23E34F26?style=for-the-badge&logoColor=white)]([(https://drive.google.com/open?id=1LwkEpbtzIR8WKPlugSV1Px389R58pBgT&usp=drive_copy)](https://drive.google.com/file/d/1LwkEpbtzIR8WKPlugSV1Px389R58pBgT/view?usp=sharing)) 
-
  🌐 Let's connect on 
   <a href="https://www.linkedin.com/in/jiya-jahnavi">
     <img 
