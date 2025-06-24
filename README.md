@@ -36,7 +36,7 @@
       style="position: relative; top: 4px;" 
       alt="LinkedIn" />
   </a>
-
+  
 
 ⚡ Fun fact   **My first line of code was not 'Hello World' ✨**
 
