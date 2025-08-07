@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyajahnavi&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="jiyajahnavi's Top Languages" height="180"/>
 </div>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyajahnavi&theme=vision-friendly-dark&hide_border=true" alt="jiyajahnavi's Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyajahnavi&theme=vision-friendly-dark&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiyajahnavi&repo=amipyq&cache_seconds=86400&theme=vision-friendly-dark" alt="Pinned Repo" height="180"/>
 </div>
    <tr>
