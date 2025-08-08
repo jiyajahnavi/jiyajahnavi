@@ -58,14 +58,20 @@
 
 
 
-<div align="left">
+<!-- Section 1: GitHub Stats & Pinned Repo -->
+<div align="left" style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jiyajahnavi&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="jiyajahnavi's Stats" height="180"/>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiyajahnavi&repo=amipyq&cache_seconds=86400&theme=vision-friendly-dark" alt="Pinned Repo" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiyajahnavi&repo=amipyq&cache_seconds=86400&theme=vision-friendly-dark" alt="Pinned Repo" height="180"/>
 </div>
-<div align="left">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyajahnavi&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jiyajahnavi&theme=dark&hide_border=false" height="180"/>
+<!-- Section 2: Top Languages & Streak Stats -->
+<div align="left" style="display: flex; gap: 10px; margin-top: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyajahnavi&layout=donut-vertical&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jiyajahnavi&theme=dark&hide_border=false" height="180" alt="Streak Stats"/>
 </div>
+
 
