@@ -61,15 +61,11 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jiyajahnavi&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="jiyajahnavi's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyajahnavi&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="jiyajahnavi's Top Languages" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jiyajahnavi&theme=dark&hide_border=false" height="180"/>
 </div>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyajahnavi&theme=vision-friendly-dark&hide_border=true" height="180"/>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyajahnavi&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiyajahnavi&repo=amipyq&cache_seconds=86400&theme=vision-friendly-dark" alt="Pinned Repo" height="180"/>
 </div>
-   <tr>
-    <th><a href="source/plugins/leetcode/README.md">🎭 Comment Reactions</a></th>
-        <td>
-           <img width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg" />
-      </td>
-      </tr>
+
