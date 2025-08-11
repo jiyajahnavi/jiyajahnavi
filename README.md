@@ -12,6 +12,7 @@
   </a>
 </p>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiyajahnavi&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔭 I’m currently working on [![AmiPYQ](https://img.shields.io/badge/AmiPYQ-Project-orange?style=flat&logo=github&logoColor=white&color=orange&labelColor=ff7e5f)](https://github.com/jiyajahnavi/AmiPYQ)
