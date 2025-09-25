@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiya Jahnavi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&color=6EC9FF&lines=Web+Developer;App+Developer;Exploring+Machine+Learning;Exploring+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&color=6EC9FF&lines=App+Developer;Web+Developer;Exploring+Machine+Learning;Exploring+Data+Science" alt="Typing SVG" />
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=jiyajahnavi&style=for-the-badge&label=Profile%20Views&color=8A2BE2&logo=github" alt="Profile Views" />
