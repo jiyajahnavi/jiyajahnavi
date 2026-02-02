@@ -52,3 +52,7 @@
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub contributions" src="assets/stats-light.svg" />
+</picture>
