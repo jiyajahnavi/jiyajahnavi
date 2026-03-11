@@ -47,7 +47,24 @@
 </picture>
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<a href="https://leetcode.com/yourusername/" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+    alt="LeetCode"
+    width="40"
+    height="40"
+    style="position: relative; top: 4px;" />
+</a>
+
+<a href="https://www.hackerrank.com/yourusername" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+    alt="HackerRank"
+    width="40"
+    height="40"
+    style="position: relative; top: 4px;" />
+</a>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
