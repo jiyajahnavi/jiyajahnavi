@@ -56,3 +56,19 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img alt="GitHub contributions" src="assets/stats-dark.svg" />
 </picture>
+
+
+<table>
+<tr>
+<td>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jiyajahnavi&theme=tokyonight)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyajahnavi&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+</table>
