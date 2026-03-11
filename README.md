@@ -48,7 +48,7 @@
 
 
 
-<a href="https://leetcode.com/yourusername/" target="_blank">
+<a href="https://leetcode.com/jiyajahnavi/" target="_blank">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
     alt="LeetCode"
@@ -57,7 +57,7 @@
     style="position: relative; top: 4px;" />
 </a>
 
-<a href="https://www.hackerrank.com/yourusername" target="_blank">
+<a href="https://www.hackerrank.com/jiyajahnavi" target="_blank">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
     alt="HackerRank"
